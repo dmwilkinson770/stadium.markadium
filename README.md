@@ -3,9 +3,8 @@ stadium.markadium
 [![PkgGoDev][PkgGoDevV2SVG]][PkgGoDevV2URL]
 ===========
 
-stadium.markadium 
 
-stadium.markadium is originally forked from Blackfriday (github.com/russross/blackfriday) [Markdown][1] processor implemented in [Go][2].
+stadium.markadium was originally forked from Blackfriday (github.com/russross/blackfriday) [Markdown][1] processor implemented in [Go][2].
 It is paranoid about its input (so you can safely feed it user-supplied data),
 it is fast, it supports common extensions (tables, smart punctuation substitutions, etc.),
 and it is safe for all utf-8
