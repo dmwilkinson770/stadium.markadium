@@ -1,12 +1,14 @@
-Blackfriday
+stadium.markadium
 [![Build Status][BuildV2SVG]][BuildV2URL]
 [![PkgGoDev][PkgGoDevV2SVG]][PkgGoDevV2URL]
 ===========
 
-Blackfriday is a [Markdown][1] processor implemented in [Go][2]. It
-is paranoid about its input (so you can safely feed it user-supplied
-data), it is fast, it supports common extensions (tables, smart
-punctuation substitutions, etc.), and it is safe for all utf-8
+stadium.markadium 
+
+stadium.markadium is originally forked from Blackfriday (github.com/russross/blackfriday) [Markdown][1] processor implemented in [Go][2].
+It is paranoid about its input (so you can safely feed it user-supplied data),
+it is fast, it supports common extensions (tables, smart punctuation substitutions, etc.),
+and it is safe for all utf-8
 (unicode) input.
 
 HTML output is currently supported, along with Smartypants
@@ -18,7 +20,7 @@ It started as a translation from C of [Sundown][3].
 Installation
 ------------
 
-Blackfriday is compatible with modern Go releases in module mode.
+stadium.markadium is compatible with modern Go releases in module mode.
 With Go installed:
 
     go get github.com/russross/blackfriday
